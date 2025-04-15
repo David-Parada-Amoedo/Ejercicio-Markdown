@@ -101,9 +101,79 @@ Enlace de descarga:(https://chromewebstore.google.com/detail/minimalist-markdown
 Enlace de descarga:(https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)
 <br></br>
 
+
+### **Código**
+En markdown podemos introducir cuadros con lineas de código en cualquier lenguaje de programación.
+```// Clase Figura
+abstract class Figura {
+    // Método abstracto para calcular el área
+    public abstract double calcularArea();
+}
+
+// Clase Circulo que hereda de Figura
+class Circulo extends Figura {
+    private double radio;
+
+    // Constructor que recibe el radio
+    public Circulo(double radio) {
+        this.radio = radio;
+    }
+
+    // Implementación del método calcularArea
+    @Override
+    public double calcularArea() {
+        return Math.PI * radio * radio;
+    }
+}
+
+// Clase Rectangulo que hereda de Figura
+class Rectangulo extends Figura {
+    private double base;
+    private double altura;
+
+    // Constructor que recibe la base y la altura
+    public Rectangulo(double base, double altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+
+    // Implementación del método calcularArea
+    @Override
+    public double calcularArea() {
+        return base * altura;
+    }
+}
+
+// Clase Triangulo que hereda de Figura
+class Triangulo extends Figura {
+    private double base;
+    private double altura;
+
+    // Constructor que recibe la base y la altura
+    public Triangulo(double base, double altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+
+    // Implementación del método calcularArea
+    @Override
+    public double calcularArea() {
+        return (base * altura) / 2;
+    }
+}
+```
+
+### **Fórmulas**
+
+Markdown 
+
+- Área del circulo $$A = \pi r^2$$
+- Área del cuadrado $$A = base * altura$$
+- Área del triangulo $$A = (base * altura) /2$$
+
 ### **Diagrama de clases**
 
-<br><br>
+
 <p align="center">
 <img src="/Diagrama.png"
 </p>
