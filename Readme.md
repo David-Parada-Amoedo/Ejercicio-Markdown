@@ -142,4 +142,4 @@ class Triangulo extends Figura {
 Figura <|-- Circulo
 Figura <|-- Rectangulo
 Figura <|-- Triangulo
-@enduml
+@enduml```
