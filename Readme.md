@@ -103,4 +103,11 @@ Enlace de descarga:(https://addons.mozilla.org/en-US/firefox/addon/markdown-here
 
 ### **Diagrama de clases**
 
-![](/Diagrama.webp)
+<br><br>
+<p align="center">
+<img src="/Diagrama.png"
+</p>
+<br></br>
+
+
+
