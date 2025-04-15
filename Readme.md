@@ -4,7 +4,7 @@
 # <center>Creación de un documento Markdown</center>
 
 ### **Descripción**
-<div style="text-align: justify;">
+<div class="justificado">
 Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin.
 
 Markdown nació como herramienta de conversión de texto plano a HTML.
