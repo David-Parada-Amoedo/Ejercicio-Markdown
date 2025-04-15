@@ -167,11 +167,11 @@ class Triangulo extends Figura {
 
 Markdown 
 
-- Área del circulo.
+- Área del circulo.<br></br>
         $$A = \pi r^2$$
-- Área del cuadrado.
+- Área del cuadrado.<br></br>
         $$A = b * a$$
-- Área del triangulo.
+- Área del triangulo.<br></br>
         $$A = (b * a) /2$$
 
 ### **Diagrama de clases**
