@@ -1,4 +1,4 @@
-## Ejercicio 6.1 > David Parada Amoedo
+## Ejercicio 6.1
 ---
 
 # <center>Creación de un documento Markdown</center>
@@ -165,17 +165,18 @@ class Triangulo extends Figura {
 
 ### **Fórmulas**
 
-Markdown 
+Markdown no tiene una notación estándar para fórmulas matemáticas. Puedes incrustar tus fórmulas como imágenes, y algunas fórmulas se pueden aproximar razonablemente bien usando Unicode. Además, puedes incrustar etiquetas arbitrarias, por lo que podrías concebiblemente poder ingresar MathML. Para escribir ecuaciones con LaTeX en Markdown, se pueden usar entornos para desarrollar fórmulas complejas.
 
 - Área del circulo.<br></br>
-        $$A = \pi r^2$$
+        $$A = \pi r^2$$<br></br>
 - Área del cuadrado.<br></br>
-        $$A = b * a$$
+        $$A = b * a$$<br></br>
 - Área del triangulo.<br></br>
-        $$A = (b * a) /2$$
+        $$A = (b * a) /2$$<br></br>
 
 ### **Diagrama de clases**
 
+Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en los archivos markdown para mostrar diagramas. Sin embargo, puedes integrarlo generando el diagrama como una imagen y luego añadiéndolo a tu archivo markdown.
 
 <p align="center">
 <img src="/Diagrama.png"
