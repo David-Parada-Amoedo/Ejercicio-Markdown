@@ -101,3 +101,21 @@ Enlace de descarga:(https://chromewebstore.google.com/detail/minimalist-markdown
 Enlace de descarga:(https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)
 <br></br>
 
+### **Diagrama de clases**
+
+@startuml
+class Circulo {
+  - radio: double
+  + Circulo(radio: double)
+  + calcularArea(): double
+  + calcularPerimetro(): double
+  + getRadio(): double
+  + setRadio(radio: double): void
+}
+
+class Main {
+  + main(args: String[]): void
+}
+
+Main --|> Circulo
+@enduml
