@@ -40,3 +40,4 @@ Figura <|-- Circulo
 Figura <|-- Rectangulo
 Figura <|-- Triangulo
 @enduml
+```
