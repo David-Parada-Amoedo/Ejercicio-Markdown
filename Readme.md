@@ -1,4 +1,4 @@
-## <center>Ejercicio 6.1</center>
+##                          Ejercicio 6.1                         
 
 # <center>Creación de un documento Markdown</center>
 
