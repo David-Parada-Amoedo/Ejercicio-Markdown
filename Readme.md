@@ -217,4 +217,26 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 |Sonrisa pícara      |Unicode Dec.      |&#128527;        |
 
 
-:)
+### **Creditos**
+
+==Desarrolado por: David Parada Amoedo==
+
+Entiendo que el objetivo del ejercicio es crear un markdown utilizando las diferentes técnicas para realizar la documentación, espero que esto sirva.
+
+Puntos a cubrir:
+
+[X] Diferentes tamaños de Encabezados. \
+[x] Negritas y cursivas. \
+[x] Imagenes desde la Web. \
+[x] Imagenes desde el Poyecto. \
+[x] Formulas. \
+[·] Diagramas UML. \
+[x] Vinculos.
+[x] Listas númeradas, desordenadas y anidadas. \
+[x] Bloques de código. \
+[x] Tablas. \
+[x] Emojis. \
+[x] Destacar texto. \
+[X] Diferentes formas de unir parrafos, saltos de linea y lineas en blanco.
+[x] Alineación de texto e imagenes. \
+[X]Pies de página.
