@@ -215,3 +215,5 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 
 
 &#x[1f603];
+
+&#8364; &#x20AC; &euro;
