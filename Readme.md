@@ -179,7 +179,7 @@ Markdown no tiene una notación estándar para fórmulas matemáticas. Puedes in
 Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en los archivos markdown para mostrar diagramas. Sin embargo, puedes integrarlo generando el diagrama como una imagen y luego añadiéndolo a tu archivo markdown.
 
 <p align="center">
-<img src="/Diagrama.png"
+<img src="/Imagenes/Diagrama.png"
 </p>
 <br></br>
 
@@ -190,6 +190,10 @@ Markdown es un lenguaje de marcado sencillo y fácil de usar que puede utilizars
 A continuacion mostramos una captura de pantalla con los tipos de imagen y su uso en markdown.
 
 <p align="center">
-<img src="/Diagrama.png"
+<img src="/Imagenes/imagenes.png"
 </p>
 <br></br>
+
+### **Creación de Tablas**
+
+
