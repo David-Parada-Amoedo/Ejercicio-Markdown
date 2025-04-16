@@ -211,7 +211,7 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 |:-------------------|-----------------:|:---------------:|
 |Sonreir             |shortcode         |:smile:          |
 |Sonrisa pícara      |shortcode         |:smirk:          |
-|                    |                  |&#x1f60f         |
+|                    |                  |&#x1f604         |
 
 
-&#x1f60f
+&#x1f603
