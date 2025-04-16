@@ -217,9 +217,9 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 |Sonrisa pícara      |Unicode Dec.      |&#128527;        |
 
 
-### **Creditos**
+### **Créditos**
 
-==Desarrolado por: David Parada Amoedo==
+**Desarrollado por:**   ***David Parada Amoedo***
 
 Entiendo que el objetivo del ejercicio es crear un markdown utilizando las diferentes técnicas para realizar la documentación, espero que esto sirva.
 
@@ -227,15 +227,22 @@ Puntos a cubrir:
 
 :white_check_mark: Diferentes tamaños de Encabezados. \
 :white_check_mark: Negritas y cursivas. \
-:white_check_mark: Imagenes desde la Web. \
-:white_check_mark: Imagenes desde el Poyecto. \
+:white_check_mark: Imágenes desde la Web. \
+:white_check_mark: Imágenes desde el Poyecto. \
 :white_check_mark: Formulas. \
 :red_circle: Diagramas UML. \
-:white_check_mark: Vinculos. \
+:white_check_mark: Vínculos. \
 :white_check_mark: Listas númeradas, desordenadas y anidadas. \
 :white_check_mark: Bloques de código. \
 :white_check_mark: Tablas. \
 :white_check_mark: Destacar texto. \
-:white_check_mark: Diferentes formas de unir parrafos, saltos de linea y lineas en blanco.
-:white_check_mark: Alineación de texto e imagenes. \
+:white_check_mark: Diferentes formas de unir parrafos, saltos de linea y lineas en blanco. \
+:white_check_mark: Alineación de texto e imágenes. \
 :white_check_mark: Pies de página.
+
+<br></br>
+Enlace a GitHub:(https://github.com/David-Parada-Amoedo/Ejercicio-Markdown.git)
+<br></br>
+
+Fin del ejercicio[^1] \
+[^1]Fin del ejercicio
