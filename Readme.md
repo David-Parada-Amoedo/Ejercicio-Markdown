@@ -225,13 +225,13 @@ Entiendo que el objetivo del ejercicio es crear un markdown utilizando las difer
 
 Puntos a cubrir:
 
-[X] Diferentes tamaños de Encabezados. \
-[x] Negritas y cursivas. \
-[x] Imagenes desde la Web. \
-[x] Imagenes desde el Poyecto. \
-[x] Formulas. \
-[·] Diagramas UML. \
-[x] Vinculos.
+[:white_check_mark:] Diferentes tamaños de Encabezados. \
+[:white_check_mark:] Negritas y cursivas. \
+[:white_check_mark:] Imagenes desde la Web. \
+[:white_check_mark:] Imagenes desde el Poyecto. \
+[:white_check_mark:] Formulas. \
+[:red_circle:] Diagramas UML. \
+[:white_check_mark:] Vinculos.
 [x] Listas númeradas, desordenadas y anidadas. \
 [x] Bloques de código. \
 [x] Tablas. \
