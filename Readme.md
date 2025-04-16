@@ -183,5 +183,13 @@ Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en 
 </p>
 <br></br>
 
+### **Capturas de Pantalla**
 
+El contenido visual es crucial para que la documentación y las entradas de blog resulten atractivas. Los estudios demuestran que los lectores tienen un 65% más de probabilidades de recordar la información cuando va acompañada de imágenes relevantes. \
+Markdown es un lenguaje de marcado sencillo y fácil de usar que puede utilizarse para dar formato a casi cualquier documento. \
+A continuacion mostramos una captura de pantalla con los tipos de imagen y su uso en markdown.
 
+<p align="center">
+<img src="/Diagrama.png"
+</p>
+<br></br>
