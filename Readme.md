@@ -80,6 +80,7 @@ Enlace de descarga:(https://markdown-here.com/get.html)
 <br></br>
 
 5. #### *Minimalist Markdown Editor (extensión de Google Chrome)*
+
     Minimalist Markdown Editor es una extensión de Google Chrome para editar documentos markdown. Esta extensión del editor Markdown es sencilla y permite escribir y editar documentos en una ventana independiente. Esta extensión se lanza como una aplicación independiente. Este editor de markdown funciona totalmente con accesos directos; haz clic en la configuración para ver la lista de accesos directos. Cambia el tamaño de la fuente, cambia los temas y escribe en múltiples pestañas. Guarda tus documentos en formato .MD . Hay dos opciones de vista previa disponibles en este editor Markdown. Puedes previsualizar en formato Markdown, o en formato HTML. Copie el documento HTML si lo desea. \
 Este es uno de los más simples y versátiles editores de Markdown para Windows.
      <br><br>
@@ -91,9 +92,10 @@ Enlace de descarga:(https://chromewebstore.google.com/detail/minimalist-markdown
 <br></br>
 
 6. #### *MarkDown Editor (Complemento de Firefox)*
+
     MarkDown Editor es un complemento de Firefox para crear o editar documentos markdown. Haz clic en el icono de este complemento para abrir una nueva pestaña en Firefox, donde se abre un editor de markdown. Este editor de markdown te permite abrir un documento en tu ordenador, o abrir una URL para editar su fuente. Hay tres diseños de editor diferentes: Sin vista previa, Vista previa horizontal y Vista previa vertical Una vez que hayas terminado de editar un documento, puedes exportarlo como HTML, o simplemente copiar el formato HTML del documento. La opción CSS le permite Aplicar CSS por defecto, o Aplicar CSS externo . Los documentos sólo pueden guardarse en formato TXT.
 
-     <br><br>
+<br><br>
 <p align="center">
 <img src="https://mistertek.com/wp-content/uploads/2023/04/firefox22_2016-02-19_12-57-34-1.png.webp"
 </p>
@@ -101,9 +103,10 @@ Enlace de descarga:(https://chromewebstore.google.com/detail/minimalist-markdown
 Enlace de descarga:(https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)
 <br></br>
 
-
 ### **Código**
+
 En markdown podemos introducir cuadros con lineas de código en cualquier lenguaje de programación.
+
 ```// Clase Figura
 abstract class Figura {
     // Método abstracto para calcular el área
@@ -194,6 +197,17 @@ A continuacion mostramos una captura de pantalla con los tipos de imagen y su us
 </p>
 <br></br>
 
-### **Creación de Tablas**
+### **Creación de Tablas e Inserción de Emojis**
 
+Las tablas se utilizan a menudo para organizar y presentar información de forma clara y concisa. Pueden emplearse para mostrar datos, comparar distintos valores o mostrar relaciones entre distintas piezas de información. \
+El uso de tablas también puede ayudar a que su documento sea visualmente más atractivo y más fácil de leer y comprender, sobre todo si tiene mucha información que presentar. \
+Así pues, las tablas siempre son útiles para organizar la información de forma que resulte fácil de comprender de un vistazo.
 
+Puede utilizar dos puntos ( : ) para controlar la alineación del texto en las columnas de la tabla.
+
+Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis en las tablas de markdown.
+
+|Alineación izquierda|Alineación derecha|Alineación centro|
+|:-------------------|-----------------:|:---------------:|
+|Sonreir             |shortcode         |:smile:          |
+|sonrisa pícara      |shortcode         |:smirk:          |
