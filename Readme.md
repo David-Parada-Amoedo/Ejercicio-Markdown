@@ -245,4 +245,4 @@ Enlace a GitHub:(https://github.com/David-Parada-Amoedo/Ejercicio-Markdown.git)
 <br></br>
 
 Fin del ejercicio[^1] \
-[^1]Fin del ejercicio
+[^1]:Fin del ejercicio
