@@ -209,11 +209,11 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 
 |Alineación izquierda|Alineación derecha|Alineación centro|
 |:-------------------|-----------------:|:---------------:|
-|Sonreir             |shortcode         |:smile:          |
-|Sonrisa pícara      |shortcode         |:smirk:          |
-|                    |                  |&#x1F604;        |
+|Sonreir             |Shortcode         |:smile:          |
+|Sonrisa pícara      |Shortcode         |:smirk:          |
+|Sonreir             |Unicode hex       |&#x1F604;        |
+|Sonrisa pícara      |Unicode hex       |&#x1F60F;        |
+|Sonreir             |Unicode dec       |&#128517;        |
+|Sonrisa pícara      |Unicode dec       |&#128527;        |
 
 
-&#xF603;
-
-&#8364; &#x20AC; &euro;
