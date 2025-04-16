@@ -225,18 +225,17 @@ Entiendo que el objetivo del ejercicio es crear un markdown utilizando las difer
 
 Puntos a cubrir:
 
-[:white_check_mark:] Diferentes tamaños de Encabezados. \
-[:white_check_mark:] Negritas y cursivas. \
-[:white_check_mark:] Imagenes desde la Web. \
-[:white_check_mark:] Imagenes desde el Poyecto. \
-[:white_check_mark:] Formulas. \
-[:red_circle:] Diagramas UML. \
-[:white_check_mark:] Vinculos.
+:white_check_mark: Diferentes tamaños de Encabezados. \
+:white_check_mark: Negritas y cursivas. \
+:white_check_mark: Imagenes desde la Web. \
+:white_check_mark: Imagenes desde el Poyecto. \
+:white_check_mark: Formulas. \
+:red_circle: Diagramas UML. \
+:white_check_mark: Vinculos. \
 :white_check_mark: Listas númeradas, desordenadas y anidadas. \
 :white_check_mark: Bloques de código. \
-[x] Tablas. \
-[x] Emojis. \
-[x] Destacar texto. \
-[X] Diferentes formas de unir parrafos, saltos de linea y lineas en blanco.
-[x] Alineación de texto e imagenes. \
-[X]Pies de página.
+:white_check_mark: Tablas. \
+:white_check_mark: Destacar texto. \
+:white_check_mark: Diferentes formas de unir parrafos, saltos de linea y lineas en blanco.
+:white_check_mark: Alineación de texto e imagenes. \
+:white_check_mark: Pies de página.
