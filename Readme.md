@@ -205,9 +205,10 @@ Así pues, las tablas siempre son útiles para organizar la información de form
 
 Puede utilizar dos puntos ( : ) para controlar la alineación del texto en las columnas de la tabla.
 
-Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis en las tablas de markdown.
+Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis en las tablas de markdown. Hay varios métodos de insertar emojis.
 
 |Alineación izquierda|Alineación derecha|Alineación centro|
 |:-------------------|-----------------:|:---------------:|
 |Sonreir             |shortcode         |:smile:          |
-|sonrisa pícara      |shortcode         |:smirk:          |
+|Sonrisa pícara      |shortcode         |:smirk:          |
+|                    |                  |\u1f60f
