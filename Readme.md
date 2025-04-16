@@ -211,9 +211,10 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 |:-------------------|-----------------:|:---------------:|
 |Sonreir             |Shortcode         |:smile:          |
 |Sonrisa pícara      |Shortcode         |:smirk:          |
-|Sonreir             |Unicode hex       |&#x1F604;        |
-|Sonrisa pícara      |Unicode hex       |&#x1F60F;        |
-|Sonreir             |Unicode dec       |&#128516;        |
-|Sonrisa pícara      |Unicode dec       |&#128527;        |
+|Sonreir             |Unicode Hex.      |&#x1F604;        |
+|Sonrisa pícara      |Unicode Hex.      |&#x1F60F;        |
+|Sonreir             |Unicode Dec.      |&#128516;        |
+|Sonrisa pícara      |Unicode Dec.      |&#128527;        |
 
 
+:)
