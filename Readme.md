@@ -213,7 +213,7 @@ Los emojis funcionan como cualquier otro texto, asi que puedes insertar emojis e
 |Sonrisa pícara      |Shortcode         |:smirk:          |
 |Sonreir             |Unicode hex       |&#x1F604;        |
 |Sonrisa pícara      |Unicode hex       |&#x1F60F;        |
-|Sonreir             |Unicode dec       |&#128517;        |
+|Sonreir             |Unicode dec       |&#128516;        |
 |Sonrisa pícara      |Unicode dec       |&#128527;        |
 
 
