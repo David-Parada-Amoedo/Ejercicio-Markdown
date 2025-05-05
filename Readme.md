@@ -171,11 +171,11 @@ class Triangulo extends Figura {
 Markdown no tiene una notación estándar para fórmulas matemáticas. Puedes incrustar tus fórmulas como imágenes, y algunas fórmulas se pueden aproximar razonablemente bien usando Unicode. Además, puedes incrustar etiquetas arbitrarias, por lo que podrías concebiblemente poder ingresar MathML. Para escribir ecuaciones con LaTeX en Markdown, se pueden usar entornos para desarrollar fórmulas complejas.
 
 - Área del circulo.<br></br>
-        $$A = \pi r^2$$<br></br>
+        $$A = \pi \times r^2$$<br></br>
 - Área del cuadrado.<br></br>
-        $$A = b * a$$<br></br>
+        $$A = b \times a$$<br></br>
 - Área del triangulo.<br></br>
-        $$A = (b * a) /2$$<br></br>
+        $$A = {(b \times a) \over2}$$<br></br>
 
 ### **Diagrama de clases**
 
