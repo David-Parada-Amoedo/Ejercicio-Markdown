@@ -259,7 +259,7 @@ Puntos a cubrir:
 :white_check_mark: Imágenes desde la Web. \
 :white_check_mark: Imágenes desde el Poyecto. \
 :white_check_mark: Formulas. \
-:red_circle: Diagramas UML. \
+:white_check_mark: Diagramas UML. \
 :white_check_mark: Vínculos. \
 :white_check_mark: Listas númeradas, desordenadas y anidadas. \
 :white_check_mark: Bloques de código. \
