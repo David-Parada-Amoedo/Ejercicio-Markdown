@@ -179,56 +179,41 @@ Markdown no tiene una notación estándar para fórmulas matemáticas. Puedes in
 
 ### **Diagrama de clases**
 
-Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en los archivos markdown para mostrar diagramas. Sin embargo, puedes integrarlo generando el diagrama como una imagen y luego añadiéndolo a tu archivo markdown.
-
-<p align="center">
-<img src="/Imagenes/Diagrama.png"
-</p>
-<br></br>
+Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en los archivos markdown para mostrar diagramas. Sin embargo, puedes integrarlo generando el diagrama con Memaid.
 
 
-<pre>
+```mermaid
 classDiagram
     class Figura {
+        <<abstract>>
         +calcularArea(): double
     }
 
     class Circulo {
-        +radio: double
+        -radio: double
         +Circulo(radio: double)
         +calcularArea(): double
-        +getRadio(): double
-        +setRadio(radio: double): void
     }
 
     class Rectangulo {
-        +base: double
-        +altura: double
+        -base: double
+        -altura: double
         +Rectangulo(base: double, altura: double)
         +calcularArea(): double
-        +getBase(): double
-        +setBase(base: double): void
-        +getAltura(): double
-        +setAltura(altura: double): void
     }
 
     class Triangulo {
-        +base: double
-        +altura: double
+        -base: double
+        -altura: double
         +Triangulo(base: double, altura: double)
         +calcularArea(): double
-        +getBase(): double
-        +setBase(base: double): void
-        +getAltura(): double
-        +setAltura(altura: double): void
     }
 
     Figura <|-- Circulo
     Figura <|-- Rectangulo
     Figura <|-- Triangulo
+```
 
-
-</pre>
 
 ### **Capturas de Pantalla**
 
@@ -237,7 +222,7 @@ Markdown es un lenguaje de marcado sencillo y fácil de usar que puede utilizars
 A continuacion mostramos una captura de pantalla con los tipos de imagen y su uso en markdown.
 
 <p align="center">
-<img src="/Imagenes/imagenes.png"
+<img src="Imagenes\imagenes.png"
 </p>
 <br></br>
 
