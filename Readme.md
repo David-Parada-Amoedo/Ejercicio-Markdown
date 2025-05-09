@@ -186,6 +186,50 @@ Desafortunadamente, GitHub no interpreta directamente el código de PlantUML en 
 </p>
 <br></br>
 
+
+<pre>
+classDiagram
+    class Figura {
+        +calcularArea(): double
+    }
+
+    class Circulo {
+        +radio: double
+        +Circulo(radio: double)
+        +calcularArea(): double
+        +getRadio(): double
+        +setRadio(radio: double): void
+    }
+
+    class Rectangulo {
+        +base: double
+        +altura: double
+        +Rectangulo(base: double, altura: double)
+        +calcularArea(): double
+        +getBase(): double
+        +setBase(base: double): void
+        +getAltura(): double
+        +setAltura(altura: double): void
+    }
+
+    class Triangulo {
+        +base: double
+        +altura: double
+        +Triangulo(base: double, altura: double)
+        +calcularArea(): double
+        +getBase(): double
+        +setBase(base: double): void
+        +getAltura(): double
+        +setAltura(altura: double): void
+    }
+
+    Figura <|-- Circulo
+    Figura <|-- Rectangulo
+    Figura <|-- Triangulo
+
+
+</pre>
+
 ### **Capturas de Pantalla**
 
 El contenido visual es crucial para que la documentación y las entradas de blog resulten atractivas. Los estudios demuestran que los lectores tienen un 65% más de probabilidades de recordar la información cuando va acompañada de imágenes relevantes. \
